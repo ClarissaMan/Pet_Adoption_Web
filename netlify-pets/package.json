@@ -1,0 +1,27 @@
+{
+  "name": "netlify-pets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClarissaMan/netlify-pets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClarissaMan/netlify-pets/issues"
+  },
+  "homepage": "https://github.com/ClarissaMan/netlify-pets#readme",
+  "description": "",
+  "dependencies": {
+    "cloudinary": "^2.5.1",
+    "cookie": "^1.0.2",
+    "escape-html": "^1.0.3",
+    "mongodb": "^6.12.0",
+    "sanitize-html": "^2.14.0"
+  }
+}
